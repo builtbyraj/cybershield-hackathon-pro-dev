@@ -1,2 +1,3 @@
-# cybershield-hackathon-pro-dev
-Developing a solution for one of the problem statements of Cybershield Hackathon 2026 organized by collaboration of IIT Hyd and Bank of India.
+#Adaptive Path Planning and Collision Avoidance for Autonomous Vehicles on Unstructured Indian Roads
+
+Developing a solution for problem statement SIH26037
